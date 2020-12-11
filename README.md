@@ -8,7 +8,7 @@ i'm 20 years old, study analysis and systems development in Fatec Rubens Lara an
     <img style="-webkit-user-select: none;margin: auto;" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/social/linkedin%402x.png">
   </a>  
   
-<a href="mailto:fontes.b.f@hotmail.com?>
+<a href="mailto:fontes.b.f@hotmail.com?">
   <img style="-webkit-user-select: none;margin: auto;" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/social/email_me%402x.png">
  </a> 
  
