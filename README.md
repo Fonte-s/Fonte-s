@@ -22,3 +22,9 @@
 | ------------------- | ------------------- |
 | <img style="-webkit-user-select: none;margin: auto;" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/languages/java.png"> |  <img style="-webkit-user-select: none;margin: auto;" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/frameworks/nodejs.png"> |
 |  <img style="-webkit-user-select: none;margin: auto;" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/languages/html.png"> | <body style="margin: 0px; background: #0e0e0e;"><img style="-webkit-user-select: none;margin: auto;" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/frameworks/bootstrap.png"></body> |
+
+
+
+
+
+✨ Change will not come if we wait for some other person or some other time. we are the ones we have been waiting for. we are the change that we seek.- Obama, Barack.
