@@ -27,4 +27,7 @@
 
 
 
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ✨ Change will not come if we wait for some other person or some other time. we are the ones we have been waiting for. we are the change that we seek.- Obama, Barack.
